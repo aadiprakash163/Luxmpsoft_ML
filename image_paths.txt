@@ -1,0 +1,8 @@
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_1.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_2.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_3.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_4.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_5.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_6.png
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_7.jpg
+/home/aaditya/aaditya/Work/Luxpmsoft/ML/images/apple_8.jpg
